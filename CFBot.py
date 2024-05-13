@@ -1,3 +1,5 @@
+#Created by Tyler Mullins of the Free Nation of the New Athens, for use in the Cupertino Forum.
+
 import discord
 from discord.ext import commands
 import asyncio
