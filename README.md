@@ -1,4 +1,4 @@
-# CupertinoForumApplicationBot
+# Cupertino Forum Application Bot
 
 This bot is used by the Cupertino Forum to automate the application intake and voting process.
 
