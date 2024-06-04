@@ -103,7 +103,7 @@ async def create_thread(channel_id, thread_name):
             return
         
         # Create the thread
-        thread = await channel.create_thread(name=thread_name, auto_archive_duration=60)
+        thread = await channel.create_thread(name=thread_name, auto_archive_duration=259200, private=False)
         print(f"Thread '{thread_name}' created under channel '{channel.name}'.")
     
         return thread.id  # Return the ID of the created thread
